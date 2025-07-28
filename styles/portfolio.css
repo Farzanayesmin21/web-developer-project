@@ -92,3 +92,20 @@ nav ul{
     font-size: 18px;
     color: #757575;
 }
+
+/* main styles */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin: top;
+}
+.about-items{
+    display: flex;
+    justify-content: space-around;
+    
+}
